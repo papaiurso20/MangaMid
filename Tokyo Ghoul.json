@@ -6,11 +6,75 @@
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHU7K-qqmh4j0wEumnnTNSSSYNKukF4LBnnXlOzg0elO8z-FtHnz4DR9DBZcd8pGIkPF3xICAK6RsAzgZ2w-XyU451tg2V_J_ihoKVcwKM4CSmb2lnpsw-aCLBeVzQrbH4EN4xtn82-mU2rwSCbpHw7q6Lw4_oZPku2aT5SUnzpgkgtPijqpYbhHrLLM/s1600/001.jpeg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Tragédia",
       "volume": "1",
       "last_updated": "1731614298",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/rzT19Pv"
+      }
+    },
+    "2": {
+      "title": "Metamorfose",
+      "volume": "1",
+      "last_updated": "1731614764",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/nwj0r0g"
+      }
+    },
+    "3": {
+      "title": "Pesadelo",
+      "volume": "1",
+      "last_updated": "1731614832",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/4j3XNbG"
+      }
+    },
+    "4": {
+      "title": "Café",
+      "volume": "1",
+      "last_updated": "1731614848",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/ZiI90YH"
+      }
+    },
+    "5": {
+      "title": "Território",
+      "volume": "1",
+      "last_updated": "1731614922",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/EZpINr8"
+      }
+    },
+    "6": {
+      "title": "Retorno",
+      "volume": "1",
+      "last_updated": "1731614995",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/zOTovjY"
+      }
+    },
+    "7": {
+      "title": "Traição",
+      "volume": "1",
+      "last_updated": "1731615028",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/37wiJ0h"
+      }
+    },
+    "8": {
+      "title": "Kagune",
+      "volume": "1",
+      "last_updated": "1731615078",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/RvV31Au"
+      }
+    },
+    "9": {
+      "title": "Incubação",
+      "volume": "1",
+      "last_updated": "1731615122",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/hRphh4L"
       }
     }
   }
