@@ -12,6 +12,70 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/aH5YOoT"
       }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1731589957",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/b2TyPOc"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1731590146",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/GKi291g"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1731590157",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/1NOhx7j"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1731590205",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/qh2eV31"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1731590260",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/2Pss0ZZ"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1731590364",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/1uu62Iv"
+      }
+    },
+    "7.1": {
+      "title": "7.1",
+      "volume": "1",
+      "last_updated": "1731590374",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/tH3uSRL"
+      }
+    },
+    "7.2": {
+      "title": "7.2",
+      "volume": "1",
+      "last_updated": "1731590435",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/CQn3nb6"
+      }
     }
   }
 }
