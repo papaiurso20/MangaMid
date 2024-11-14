@@ -76,6 +76,54 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/hRphh4L"
       }
+    },
+    "10": {
+      "title": "Antiguidade",
+      "volume": "2",
+      "last_updated": "1731615664",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/PPwlpOY"
+      }
+    },
+    "11": {
+      "title": "Máscara",
+      "volume": "2",
+      "last_updated": "1731615699",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/CdPgWlW"
+      }
+    },
+    "12": {
+      "title": "Missão",
+      "volume": "2",
+      "last_updated": "1731615981",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/6sHvvU3"
+      }
+    },
+    "13": {
+      "title": "Pombo",
+      "volume": "2",
+      "last_updated": "1731616168",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/8COfC7P"
+      }
+    },
+    "14": {
+      "title": "Temporal",
+      "volume": "2",
+      "last_updated": "1731616244",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/fvZ8Oxx"
+      }
+    },
+    "15": {
+      "title": "Mãe e Filha",
+      "volume": "2",
+      "last_updated": "1731616287",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/GECH14P"
+      }
     }
   }
 }
