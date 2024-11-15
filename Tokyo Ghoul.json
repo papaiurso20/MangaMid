@@ -124,6 +124,38 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/GECH14P"
       }
+    },
+    "16": {
+      "title": "Aprisionamento",
+      "volume": "2",
+      "last_updated": "1731667610",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/yvVh2O9"
+      }
+    },
+    "17": {
+      "title": "Máscara de coelho",
+      "volume": "2",
+      "last_updated": "1731667655",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/puuU5St"
+      }
+    },
+    "18": {
+      "title": "Primitivo",
+      "volume": "2",
+      "last_updated": "1731667687",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/JmTpBJf"
+      }
+    },
+    "19": {
+      "title": "Subterrâneo",
+      "volume": "2",
+      "last_updated": "1731667726",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/gjnx01F"
+      }
     }
   }
 }
