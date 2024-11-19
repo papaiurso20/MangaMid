@@ -4,5 +4,54 @@
   "artist": "Usamaru Furuya",
   "author": "Usamaru Furuya",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaSk0DfGj9yIomcOfBc1ywSWgT6y5-B7MEMlmXsSDtVOMNvPQMYUoI12Mpqc4CWhQ7QQBpAt8xIJ-WglttE9wvF_bNngm_viYZao9p1_IFE_AbrKVIxH_1_xYoaBJS6GzvgS5y2O7yFwcFzfx-A481yVuzN_Kxlst_oN_bbnRcza_S4biDtqMIiq-L2ybj/s1600/Suicide%20Club%20001.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Saya",
+      "volume": "1",
+      "last_updated": "1732024203",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/1BD5EeO"
+      }
+    },
+    "2": {
+      "title": "Boato",
+      "volume": "1",
+      "last_updated": "1732024285",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/uSb4op9"
+      }
+    },
+    "3": {
+      "title": "Kyoko",
+      "volume": "1",
+      "last_updated": "1732024332",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/2d7elNI"
+      }
+    },
+    "4": {
+      "title": "Ruinas",
+      "volume": "1",
+      "last_updated": "1732024361",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/yR2pCIO"
+      }
+    },
+    "5": {
+      "title": "Colapso",
+      "volume": "1",
+      "last_updated": "1732024396",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/Rv90HpB"
+      }
+    },
+    "6": {
+      "title": "Nascimento",
+      "volume": "1",
+      "last_updated": "1732024417",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/w02C251"
+      }
+    }
+  }
 }
