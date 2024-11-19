@@ -253,6 +253,30 @@
         "MangaMid": "/proxy/api/imgur/chapter/miLFP5A"
       }
     },
+    "32": {
+      "title": "Rock Drum!!",
+      "volume": "4",
+      "last_updated": "1732020391",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/vcj21As"
+      }
+    },
+    "33": {
+      "title": "A \"cozinha\" do Sunny!!",
+      "volume": "4",
+      "last_updated": "1732020403",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/uG08mIC"
+      }
+    },
+    "34": {
+      "title": "Komatsu e Sunny!!",
+      "volume": "4",
+      "last_updated": "1732020447",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/3LKOfGj"
+      }
+    },
     "7.1": {
       "title": "Capitulo Extra 1",
       "volume": "1",
@@ -267,6 +291,14 @@
       "last_updated": "1731590435",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/CQn3nb6"
+      }
+    },
+    "34.5": {
+      "title": "Capítulo Extra",
+      "volume": "4",
+      "last_updated": "1732020485",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/NXuj3qD"
       }
     }
   }
