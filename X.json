@@ -4,5 +4,54 @@
   "artist": "CLAMP",
   "author": "CLAMP",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWFc4WeaImgFUWYMl_1p_zo4HDsZbCoR5jDrLoVpL66xt3BfLBdlE_2F2PMxOP9ixLkg1sBWLO43nC7tch8xSiJAbAUKN-J67A3ZmCSQXHPntMF2UesRk-Wy_hzeaJUq0N3wlqsiwFUKTBHInYIepnbMP8CeOwpuWYHu6NMLMQ0JwYAFFSTNEiX77VBbvC/s1600/X-1999%2001%20001.jpg",
-  "chapters": {}
+  "chapters": {
+    "49": {
+      "title": "",
+      "volume": "13",
+      "last_updated": "1732116662",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/fH8ZPdh"
+      }
+    },
+    "50": {
+      "title": "",
+      "volume": "13",
+      "last_updated": "1732116720",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/rwg6rSb"
+      }
+    },
+    "51": {
+      "title": "",
+      "volume": "13",
+      "last_updated": "1732116738",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/XVkv52s"
+      }
+    },
+    "52": {
+      "title": "",
+      "volume": "13",
+      "last_updated": "1732116755",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/x4zDxIa"
+      }
+    },
+    "53": {
+      "title": "",
+      "volume": "13",
+      "last_updated": "1732116778",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/ugx4AyU"
+      }
+    },
+    "53.5": {
+      "title": "",
+      "volume": "13",
+      "last_updated": "1732116796",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/wdpgPaF"
+      }
+    }
+  }
 }
