@@ -4,5 +4,38 @@
   "artist": "Takashi Murakami",
   "author": "Takashi Murakami",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9nubX2OddCnVJ79bmtvyzWdH9twDN91tnC6db6WFdianCR1KrKyZ6m3yBaRsb8_QCSXZdO_223jllCLe6kEGuXUFxrBibmr5yJXT7d4mtWu3MVLOXi0MfNd7_gagKXwMGptWhgnRATkgD8oe1aQdfZoq5W2wppFp7SMX0aTomvZ_ptyZiUewa22cPQRU/s1600/Page_001.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1732096245",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/lN4db84"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1732096281",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/VkIIhyL"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1732096297",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/0A6XOAx"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1732096308",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/krFccwE"
+      }
+    }
+  }
 }
