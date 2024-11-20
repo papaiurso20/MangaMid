@@ -4,5 +4,46 @@
   "artist": "Junji Ito",
   "author": "Junji Ito",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-5Ln-b4Wy2vaAjj6Gm_SqOwKk7c61yxO4EvccwFqNFWEe3q-WUs9er83n9yeIRbheG5j95R6YoF-akiixXbhkF_LOplJoS_J2xdwNYEzvZqmOpkmiXDm71NzfSYvXc9kOkOcFlnsfLBI3Y_hByZh0jTi9JlpS6u_uciN8CvaPtO898Wl_D2Kvu_s9I4/s320/Junji%20Ito_000.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Futon",
+      "volume": "1",
+      "last_updated": "1732128610",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/Qsl8wr5"
+      }
+    },
+    "2": {
+      "title": "Monstro de Madeira",
+      "volume": "1",
+      "last_updated": "1732128748",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/iNmkxxD"
+      }
+    },
+    "3": {
+      "title": "Tomio - Gola Rulê Vermelha",
+      "volume": "1",
+      "last_updated": "1732128764",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/r3BWrxE"
+      }
+    },
+    "4": {
+      "title": "Suave Adeus",
+      "volume": "1",
+      "last_updated": "1732128913",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/G2BYoYL"
+      }
+    },
+    "5": {
+      "title": "Dissecação-Chan",
+      "volume": "1",
+      "last_updated": "1732128998",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/zF1DUiU"
+      }
+    }
+  }
 }
