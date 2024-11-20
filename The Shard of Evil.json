@@ -44,6 +44,22 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/zF1DUiU"
       }
+    },
+    "6": {
+      "title": "Pássaro Negro",
+      "volume": "1",
+      "last_updated": "1732129308",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/jeyOrrt"
+      }
+    },
+    "7": {
+      "title": "Magami Nanakuse",
+      "volume": "1",
+      "last_updated": "1732129375",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/wr6jJER"
+      }
     }
   }
 }
