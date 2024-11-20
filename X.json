@@ -93,12 +93,44 @@
         "MangaMid": "/proxy/api/imgur/chapter/2NCQO4x"
       }
     },
+    "60": {
+      "title": "",
+      "volume": "14",
+      "last_updated": "1732121595",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/ft7i9K8"
+      }
+    },
+    "61": {
+      "title": "",
+      "volume": "14",
+      "last_updated": "1732121604",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/gkaYnxh"
+      }
+    },
+    "62": {
+      "title": "",
+      "volume": "14",
+      "last_updated": "1732121631",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/uAsr3cd"
+      }
+    },
     "53.5": {
       "title": "Karen Kasumi",
       "volume": "13",
       "last_updated": "1732116796",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/wdpgPaF"
+      }
+    },
+    "62.5": {
+      "title": "Yuto Kigai",
+      "volume": "14",
+      "last_updated": "1732121642",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/Cq3Hcz4"
       }
     }
   }
