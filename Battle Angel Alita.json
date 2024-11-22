@@ -4,5 +4,54 @@
   "artist": "Yukito Kishiro",
   "author": "Yukito Kishiro",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeYpuG7iBqYj26jsCwv5445Fcv_QFqjjNSXugcxKv9D18jk2bJePYdzPjbaFxi-jwgsrN16hvw7lxGxX-uWYIi0VsdRHWReKy11M_HVXqOUwOO9k9j9L2JWl0knfR9Fp3pYAo60kYfuGpKJspvbu24hb7FV8WcfQZhJZu2TfgvEkp1UqI-CDV4b3QD1So/s1600/00001.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Anjo Enferrujado",
+      "volume": "1",
+      "last_updated": "1732287882",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/oqfwrtI"
+      }
+    },
+    "2": {
+      "title": "Instinto de Luta",
+      "volume": "1",
+      "last_updated": "1732287917",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/rTuCvHC"
+      }
+    },
+    "3": {
+      "title": "O Verdadeiro Valor",
+      "volume": "1",
+      "last_updated": "1732287946",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/OFy9PHm"
+      }
+    },
+    "4": {
+      "title": "A Ressureição do Berserker",
+      "volume": "1",
+      "last_updated": "1732287977",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/1rL4AkP"
+      }
+    },
+    "5": {
+      "title": "Armadilha no Subterrâneo",
+      "volume": "1",
+      "last_updated": "1732288016",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/kO4azi4"
+      }
+    },
+    "6": {
+      "title": "Anjo Lutador",
+      "volume": "1",
+      "last_updated": "1732288052",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/IQ3HkQP"
+      }
+    }
+  }
 }
