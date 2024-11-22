@@ -52,6 +52,46 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/IQ3HkQP"
       }
+    },
+    "7": {
+      "title": "Lágrimas de Anjo",
+      "volume": "2",
+      "last_updated": "1732288537",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/UyqEJuv"
+      }
+    },
+    "8": {
+      "title": "O Menino que Olhava para o Céu",
+      "volume": "2",
+      "last_updated": "1732288558",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/oMiYXQR"
+      }
+    },
+    "9": {
+      "title": "Dama de Ferro",
+      "volume": "2",
+      "last_updated": "1732288634",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/rKDyS2j"
+      }
+    },
+    "10": {
+      "title": "Yugo, O Fugitivo",
+      "volume": "2",
+      "last_updated": "1732288658",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/DmCQAAn"
+      }
+    },
+    "11": {
+      "title": "Amargo Sonho",
+      "volume": "2",
+      "last_updated": "1732288689",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/QDweAVb"
+      }
     }
   }
 }
