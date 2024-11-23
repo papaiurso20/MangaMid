@@ -92,6 +92,54 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/QDweAVb"
       }
+    },
+    "12": {
+      "title": "Além das Nuvens",
+      "volume": "2",
+      "last_updated": "1732400684",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/sMYTvgq"
+      }
+    },
+    "13": {
+      "title": "Anjo Matador",
+      "volume": "2",
+      "last_updated": "1732400718",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/ONB0mjL"
+      }
+    },
+    "14": {
+      "title": "O Grande Imperador",
+      "volume": "2",
+      "last_updated": "1732400738",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/lvXt4XD"
+      }
+    },
+    "15": {
+      "title": "Luta pelo Crânio",
+      "volume": "2",
+      "last_updated": "1732400756",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/uOrV7BK"
+      }
+    },
+    "16": {
+      "title": "Um Único Coração",
+      "volume": "2",
+      "last_updated": "1732400780",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/5G9xedE"
+      }
+    },
+    "17": {
+      "title": "Rumo ao Desafio",
+      "volume": "2",
+      "last_updated": "1732400812",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/0Gv9VCD"
+      }
     }
   }
 }
