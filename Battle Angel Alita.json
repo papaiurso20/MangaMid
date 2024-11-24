@@ -95,7 +95,7 @@
     },
     "12": {
       "title": "Além das Nuvens",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1732400684",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/sMYTvgq"
@@ -103,7 +103,7 @@
     },
     "13": {
       "title": "Anjo Matador",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1732400718",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/ONB0mjL"
@@ -111,7 +111,7 @@
     },
     "14": {
       "title": "O Grande Imperador",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1732400738",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/lvXt4XD"
@@ -119,7 +119,7 @@
     },
     "15": {
       "title": "Luta pelo Crânio",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1732400756",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/uOrV7BK"
@@ -127,7 +127,7 @@
     },
     "16": {
       "title": "Um Único Coração",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1732400780",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/5G9xedE"
@@ -135,10 +135,106 @@
     },
     "17": {
       "title": "Rumo ao Desafio",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1732400812",
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/0Gv9VCD"
+      }
+    },
+    "18": {
+      "title": "Festival de Combate",
+      "volume": "4",
+      "last_updated": "1732421810",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/zHXfAgD"
+      }
+    },
+    "19": {
+      "title": "O Domínio do Vento",
+      "volume": "4",
+      "last_updated": "1732421839",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/GvXJhxm"
+      }
+    },
+    "20": {
+      "title": "Herdando o Sonho",
+      "volume": "4",
+      "last_updated": "1732421895",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/N1i42Bt"
+      }
+    },
+    "21": {
+      "title": "Renegada",
+      "volume": "4",
+      "last_updated": "1732421911",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/qW6HE9d"
+      }
+    },
+    "22": {
+      "title": "O Homem que Emerge do Fogo",
+      "volume": "4",
+      "last_updated": "1732421972",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/pJoXRuj"
+      }
+    },
+    "23": {
+      "title": "Tempo de Vingança",
+      "volume": "5",
+      "last_updated": "1732421993",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/nOuHlRB"
+      }
+    },
+    "24": {
+      "title": "Acerto de Contas",
+      "volume": "5",
+      "last_updated": "1732422039",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/PciXTJ5"
+      }
+    },
+    "25": {
+      "title": "O Frasco do Carma",
+      "volume": "5",
+      "last_updated": "1732422096",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/raBxjPR"
+      }
+    },
+    "26": {
+      "title": "Destruição",
+      "volume": "5",
+      "last_updated": "1732422190",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/4nvJcNE"
+      }
+    },
+    "27": {
+      "title": "Bode Expiatório",
+      "volume": "5",
+      "last_updated": "1732422200",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/MJYXzRM"
+      }
+    },
+    "28": {
+      "title": "Impacto Direto",
+      "volume": "5",
+      "last_updated": "1732422235",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/eGv5H5T"
+      }
+    },
+    "29": {
+      "title": "Em Nome dos Fortes e dos Fracos",
+      "volume": "5",
+      "last_updated": "1732422279",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/aA4pHZA"
       }
     }
   }
