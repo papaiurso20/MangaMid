@@ -388,6 +388,54 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/F3mhNVK"
       }
+    },
+    "49": {
+      "title": "Sonho e Coração",
+      "volume": "9",
+      "last_updated": "1732564223",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/I2zPmhh"
+      }
+    },
+    "50": {
+      "title": "O Mestre do Ferro",
+      "volume": "9",
+      "last_updated": "1732564249",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/CvacFLg"
+      }
+    },
+    "51": {
+      "title": "Youko em Colapso",
+      "volume": "9",
+      "last_updated": "1732564283",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/sGrCFJj"
+      }
+    },
+    "52": {
+      "title": "A Conquista de Zalem I",
+      "volume": "9",
+      "last_updated": "1732564317",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/QMUhhRJ"
+      }
+    },
+    "53": {
+      "title": "A Conquista de Zalem II",
+      "volume": "9",
+      "last_updated": "1732564343",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/wv0m5o9"
+      }
+    },
+    "54": {
+      "title": "Epílogo",
+      "volume": "9",
+      "last_updated": "1732564370",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/IGgO0vz"
+      }
     }
   }
 }
