@@ -332,6 +332,62 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/soThp2D"
       }
+    },
+    "42": {
+      "title": "A Última Transmissão",
+      "volume": "8",
+      "last_updated": "1732546051",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/yDIOwWd"
+      }
+    },
+    "43": {
+      "title": "Testamento",
+      "volume": "8",
+      "last_updated": "1732546098",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/vPXZYIp"
+      }
+    },
+    "44": {
+      "title": "A Sucessora da Fera",
+      "volume": "8",
+      "last_updated": "1732546124",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/HES2wI3"
+      }
+    },
+    "45": {
+      "title": "As Mil Faces da Loucura",
+      "volume": "8",
+      "last_updated": "1732546156",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/KSTlrJE"
+      }
+    },
+    "46": {
+      "title": "Crônica de Guerra do Barjack",
+      "volume": "8",
+      "last_updated": "1732546197",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/flIppsw"
+      }
+    },
+    "47": {
+      "title": "Sonho e Aço",
+      "volume": "8",
+      "last_updated": "1732546232",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/XSngUzT"
+      }
+    },
+    "48": {
+      "title": "Sem Problemas",
+      "volume": "9",
+      "last_updated": "1732546281",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/F3mhNVK"
+      }
     }
   }
 }
