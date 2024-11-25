@@ -236,6 +236,102 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/aA4pHZA"
       }
+    },
+    "30": {
+      "title": "O Dia do Julgamento",
+      "volume": "6",
+      "last_updated": "1732543823",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/vjqoUxZ"
+      }
+    },
+    "31": {
+      "title": "Anjo da Morte",
+      "volume": "6",
+      "last_updated": "1732543873",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/TyUgooW"
+      }
+    },
+    "32": {
+      "title": "Perdidos no Deserto",
+      "volume": "6",
+      "last_updated": "1732543973",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/8G6Ed3o"
+      }
+    },
+    "33": {
+      "title": "A Fera do Inferno",
+      "volume": "6",
+      "last_updated": "1732543995",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/SW8vNxH"
+      }
+    },
+    "34": {
+      "title": "A Terra da Traição",
+      "volume": "6",
+      "last_updated": "1732544036",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/9pmmG2p"
+      }
+    },
+    "35": {
+      "title": "O Caminho para a Liberdade",
+      "volume": "6",
+      "last_updated": "1732544064",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/6Rw4uWA"
+      }
+    },
+    "36": {
+      "title": "Aqueles que Olham para o Céu",
+      "volume": "7",
+      "last_updated": "1732544836",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/e0Ht2Kn"
+      }
+    },
+    "37": {
+      "title": "O Poeta do Deserto",
+      "volume": "7",
+      "last_updated": "1732544885",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/4J9utG3"
+      }
+    },
+    "38": {
+      "title": "O Caos Subterrâneo",
+      "volume": "7",
+      "last_updated": "1732544907",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/VpALYzc"
+      }
+    },
+    "39": {
+      "title": "Panzer Bride",
+      "volume": "7",
+      "last_updated": "1732544954",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/Jh8hpkg"
+      }
+    },
+    "40": {
+      "title": "A Separação",
+      "volume": "7",
+      "last_updated": "1732544983",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/uUqcASN"
+      }
+    },
+    "41": {
+      "title": "O Fruto Doce da Vida",
+      "volume": "7",
+      "last_updated": "1732545007",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/soThp2D"
+      }
     }
   }
 }
