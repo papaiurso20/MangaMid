@@ -12,6 +12,38 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/dlYgnoY"
       }
+    },
+    "2": {
+      "title": "O Seu Nome é Gold! Em Inglês, Kim",
+      "volume": "1",
+      "last_updated": "1734809445",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/xSKNK0b"
+      }
+    },
+    "3": {
+      "title": "Mortal! Nakky Punch!",
+      "volume": "1",
+      "last_updated": "1734809482",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/qisoNbq"
+      }
+    },
+    "4": {
+      "title": "Acho que Passou dos Limites, General! A True Love Story",
+      "volume": "1",
+      "last_updated": "1734809520",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/XozY37Z"
+      }
+    },
+    "5": {
+      "title": "Primavera Ura-rya-rya-rya",
+      "volume": "1",
+      "last_updated": "1734809559",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/6CziGHN"
+      }
     }
   }
 }
