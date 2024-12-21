@@ -4,5 +4,38 @@
   "artist": "Matsuri Hino",
   "author": "Matsuri Hino",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppYTFvwFb8DyJgQcaBy68OeI3r_30NRTcTPuuPtygBShBpEdWHaEzj-XX2kIe7rO7BBM89_nyhr6ZucDOZHo-tKqZnX4QkiE8cm5mDDhWwdmX1p-SPKGATGHCvXeErWhZqcDtiFWvkU16gxaNw3T1TxcHYR5JqqiL6olflCU25JVlUCOQxRSEpyXABsA/s320/Wanted%20%28Matsuri%20Hino%29%20-%20c000%20-%20p001%20%28capa%29%20%5BPanini%5D%5BScan%5D.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "O Capitão Skars",
+      "volume": "1",
+      "last_updated": "1734811310",
+      "groups": {
+        "MangaMid": " https://imgur.com/a/XhHWoMy"
+      }
+    },
+    "2": {
+      "title": "Os Inimigos dos Piratas",
+      "volume": "1",
+      "last_updated": "1734811337",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/EPvmnfr"
+      }
+    },
+    "3": {
+      "title": "A Lendária Partitura Amaldiçoada",
+      "volume": "1",
+      "last_updated": "1734811370",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/buQhYT0"
+      }
+    },
+    "4": {
+      "title": "Era Meiji, pequeno incidente da Casa Comercial Sakurada",
+      "volume": "1",
+      "last_updated": "1734811427",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/ckNVpro"
+      }
+    }
+  }
 }
