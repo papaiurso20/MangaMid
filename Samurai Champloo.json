@@ -44,6 +44,46 @@
       "groups": {
         "MangaMid": "/proxy/api/imgur/chapter/6CziGHN"
       }
+    },
+    "6": {
+      "title": "Lá do Norte? Parte 1",
+      "volume": "2",
+      "last_updated": "1734810095",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/tS9Url5"
+      }
+    },
+    "7": {
+      "title": "Lá do Norte? Parte 2 Com Amor, da Rússia",
+      "volume": "2",
+      "last_updated": "1734810142",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/WU6nAwS"
+      }
+    },
+    "8": {
+      "title": "Do Girassol",
+      "volume": "2",
+      "last_updated": "1734810188",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/WtpDzmt"
+      }
+    },
+    "9": {
+      "title": "Fake Reloaded",
+      "volume": "2",
+      "last_updated": "1734810226",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/Vd2MyZR"
+      }
+    },
+    "10": {
+      "title": "Fake Revolutions",
+      "volume": "2",
+      "last_updated": "1734810300",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/dBLy7po"
+      }
     }
   }
 }
