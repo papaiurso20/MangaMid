@@ -4,5 +4,38 @@
   "artist": "Jinsei Kataoka e Kazuma Kondou",
   "author": "Jinsei Kataoka e Kazuma Kondou",
   "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMxxvkwLy-ttBj8u2B6CEg16I-GO1WaTJI-elQmBPVePtH9tTsGc4or8TYEOOi0MoBaQDl6wbZPTXBigHYuYwaF0OgeeHnVOBWqAP0gPEthWjkY5EpByx4WKmmY7Pnxx1XtAE_seCl3hMssdJg5B4eitK9HIQTU8Pd8JLSdR_Zi2TYEpiXTkEBxGRbUFA/s320/Eureka%20SeveN%20-%20Salmos%20dos%20Planetas%20-%20c001%20%28v01%29%20-%20p001%20%28capa%29%20%5BPanini%5D%5BScan%5D.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Start Today",
+      "volume": "1",
+      "last_updated": "1734901836",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/pO4lhdU"
+      }
+    },
+    "2": {
+      "title": "Kids are alright",
+      "volume": "1",
+      "last_updated": "1734901947",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/Xyqp3Aj"
+      }
+    },
+    "3": {
+      "title": "Holidays in the sun",
+      "volume": "1",
+      "last_updated": "1734901974",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/uDzhb91"
+      }
+    },
+    "3.5": {
+      "title": "Extras",
+      "volume": "1",
+      "last_updated": "1734901999",
+      "groups": {
+        "MangaMid": "/proxy/api/imgur/chapter/R43L8zT"
+      }
+    }
+  }
 }
